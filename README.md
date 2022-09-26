@@ -4,6 +4,7 @@
 # Title: Note Taker 3000!!
 
 ## Screenshot
+![](public/assets/images/2022-09-26.png)
 
 ## Description:
 This App was built using Express.js, and deployed using HEROKU! Note Taker 3000 is just a simple note taking application. It is very user-friendly and easy to use!
@@ -35,7 +36,7 @@ Contact Me:
 
 
 
-link to Heroku: 
+link to Heroku: https://arcane-hollows-49205.herokuapp.com/
 
 Github: https://github.com/banjosquash
 
